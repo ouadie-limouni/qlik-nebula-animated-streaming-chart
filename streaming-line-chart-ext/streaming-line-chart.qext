@@ -1,0 +1,9 @@
+{
+  "name": "streaming-line-chart",
+  "version": "0.2.0",
+  "description": "",
+  "author": "Ouadie Limouni",
+  "icon": "extension",
+  "type": "visualization",
+  "supernova": true
+}
